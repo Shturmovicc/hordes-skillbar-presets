@@ -6,6 +6,5 @@ module.exports = {
         path: path.resolve(__dirname, 'dist'),
         filename: 'index.js'
     },
-    mode: 'development',
-    devtool: 'source-map'
+    devtool: false
 }
