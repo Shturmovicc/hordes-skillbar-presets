@@ -1,0 +1,9 @@
+// ==UserScript==
+// @name        SkillbarPresets
+// @match       *://hordes.io/play
+// @grant       none
+// @version     0.1.0
+// @author      Shturmovic
+// @description Presets for skillbar
+// @run-at      document-start
+// ==/UserScript==
