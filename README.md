@@ -1,4 +1,4 @@
-# Hordes.io - Auto chat translator
+# Hordes.io - Skillbar Presets
 
 https://github.com/user-attachments/assets/eb260d28-c0f4-4934-8778-95cec16cecff
 
