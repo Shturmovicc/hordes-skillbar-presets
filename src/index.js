@@ -53,7 +53,8 @@ function removeSlots(slots) {
 }
 
 async function onselect() {
-    if (!this.elements.applybtn.classList.contains('disabled')) return
+    const player = document.getElementById('ufplayer')
+    if (player.querySelector('.combat')) return
     const presetName = this.configbar.selectmenu.value
     const preset = storage.get(presetName)
     if (preset) {
